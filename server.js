@@ -10,7 +10,7 @@ var logData = "";
 server.get('/', (req,res) => {
     res.send("You have hitted a GET API on port: "+PORT);
     let current = new Date();
-    logData = "[ "+current.toLocaleString()+" "+current.getTimezoneOffset()+" ] Someone hits the GET API at \n";
+    logData = "[ "+current.toLocaleString()+" "+current.getTimezoneOffset()+" ] Someone hits the GET API \n";
     fs.appendFile('./logs/APILogs.log',logData, (err) => {
         if(err) throw err;
     });
@@ -19,7 +19,7 @@ server.get('/', (req,res) => {
 server.post('/', (req,res) => {
     res.send("You have hitted POST API on port: "+PORT);
     let current = new Date();
-    logData = "[ "+current.toLocaleString()+" "+current.getTimezoneOffset()+" ] Someone hits the POST API at \n";
+    logData = "[ "+current.toLocaleString()+" "+current.getTimezoneOffset()+" ] Someone hits the POST API \n";
     fs.appendFile('./logs/APILogs.log',logData, (err) => {
         if(err) throw err;
     });
@@ -29,7 +29,7 @@ server.post('/', (req,res) => {
 server.put('/', (req,res) => {
     res.send("You have hitted PUT API on port: "+PORT);
     let current = new Date();
-    logData = "[ "+current.toLocaleString()+" "+current.getTimezoneOffset()+" ] Someone hits the PUT API at \n";
+    logData = "[ "+current.toLocaleString()+" "+current.getTimezoneOffset()+" ] Someone hits the PUT API \n";
     fs.appendFile('./logs/APILogs.log',logData, (err) => {
         if(err) throw err;
     });
@@ -39,7 +39,7 @@ server.put('/', (req,res) => {
 server.delete('/', (req,res) => {
     res.send("You have hitted DELETE API on port: "+PORT);
     let current = new Date();
-    logData = "[ "+current.toLocaleString()+" "+current.getTimezoneOffset()+" ] Warning! Someone hits the DELETE API at \n";
+    logData = "[ "+current.toLocaleString()+" "+current.getTimezoneOffset()+" ] Warning! Someone hits the DELETE API \n";
     fs.appendFile('./logs/APILogs.log',logData, (err) => {
         if(err) throw err;
     });
