@@ -46,6 +46,7 @@ server.delete('/', (req,res) => {
     console.log(logData);
 });
 
+
 server.listen(PORT, () => {
     console.log("App is now answering to port: "+PORT);
 });
