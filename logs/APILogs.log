@@ -1,2 +1,31 @@
-[ 5/13/2021, 7:34:15 PM -330 ] Someone hits the POST API 
-[ 5/13/2021, 7:34:26 PM -330 ] Warning! Someone hits the DELETE API 
+
+[ 5/18/2021, 5:46:56 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 5:46:56 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 5:48:10 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 5:48:11 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 5:51:41 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 5:51:41 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 5:52:00 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 5:52:00 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 5:55:44 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 5:55:44 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:02:16 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:02:16 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:02:33 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:02:34 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:04:35 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:04:35 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:09:32 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:09:32 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:11:23 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:11:23 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:19:10 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:19:10 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:21:27 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:21:27 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:21:47 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:21:47 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:23:25 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:23:25 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
+[ 5/18/2021, 6:24:55 PM -330 ] Application started and answering to port: 3001 
+[ 5/18/2021, 6:24:55 PM -330 ] App got connected to Database mongodb://192.168.226.137:27017/expressDB 
